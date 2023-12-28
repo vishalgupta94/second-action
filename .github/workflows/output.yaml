@@ -2,7 +2,7 @@ name: Output
 
 on: 
     - workflow_dispatch
-    - push
+    - issues
 
 jobs:
   output:
