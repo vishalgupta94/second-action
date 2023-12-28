@@ -1,6 +1,6 @@
 name: Output
 on: 
-    workflow_dispatch
+    workflow_dispatch:
 jobs:
     outout:
         runs-on: ubuntu-latest
